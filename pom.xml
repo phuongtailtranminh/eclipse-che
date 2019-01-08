@@ -1903,6 +1903,17 @@
             </dependency>
             <dependency>
                 <groupId>org.eclipse.che.plugin</groupId>
+                <artifactId>plugin-menu-ide</artifactId>
+                <version>${che.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.eclipse.che.plugin</groupId>
+                <artifactId>plugin-menu-ide</artifactId>
+                <version>${che.version}</version>
+                <type>gwt-lib</type>
+            </dependency>
+            <dependency>
+                <groupId>org.eclipse.che.plugin</groupId>
                 <artifactId>shared</artifactId>
                 <version>${che.version}</version>
             </dependency>

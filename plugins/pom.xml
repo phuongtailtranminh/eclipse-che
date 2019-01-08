@@ -60,5 +60,6 @@
         <module>plugin-ceylon</module>
         <module>plugin-clangd</module>
         <module>plugin-golang</module>
+        <module>plugin-menu</module>
     </modules>
 </project>

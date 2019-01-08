@@ -84,7 +84,7 @@
     "webpack": "^1.12.11",
     "webpack-stream": "~2.1.0",
     "wrench": "~1.5.8",
-    "yarn": ">=1.2.1"
+    "yarn": "^1.12.3"
   },
   "engines": {
     "yarn": ">=1.2.1",
